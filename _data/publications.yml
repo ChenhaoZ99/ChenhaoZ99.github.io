@@ -1,6 +1,6 @@
 main:
 
-  - title: Traffic light optimization with low penetration rate vehicle trajectory data
+  - title: Non-Differentiable Diffusion Guidance for Improved Molecular Geometry
     authors: (equal contribution) Yuchen Shen*, <strong>Chenhao Zhang*</strong>, Chenghui Zhou, Sijie Fu, Newell Washburn, Barnabas Poczos
     pdf: https://openreview.net/pdf?id=1KgSm4R0NP
     image: ./assets/img/mol_optimization.png
@@ -11,7 +11,7 @@ main:
     Wall Street Juornal: https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252
     Local News: https://www.clickondetroit.com/news/local/2024/02/23/cutting-edge-technology-slashes-wait-times-at-red-lights-in-oakland-county/
     pdf: https://www.nature.com/articles/s41467-024-45427-4#citeas
-    image: ./assets/img/nature_communications_fig.png
+    image: ./assets/img/nc_fig.png
 
   - title: Trajectory Data Processing and Mobility Performance Evaluation for Urban Traffic Networks
     authors: Xingmin Wang, Zachary Jerome, Chenhao Zhang, Shengyin Shen, Vivek Vijaya Kumar, Henry X Liu
