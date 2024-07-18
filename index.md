@@ -4,20 +4,28 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a second year Master in Machine Learning (MSML) student at Carnegie Mellon University. 
+I'm fortunate to be advised by [Barnabás Póczos](https://www.cs.cmu.edu/~bapoczos/) and [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/).
+My research interests span theory and application sides of machine learning, including **representation learning theory** and **AI4Science**. 
+In representation learning theory, I'm interested in finding good features that are interpretable. 
+Currently, I'm working on limitations of LLMs and how meta learning can helps Transformer.
+In AI4Science, I mainly work on AI for molecule generation and optimizations using generative models.
+
+I received my Bachelor's degree in computer science and mathematical science (double major) from the University of Michigan,
+where I was advised by [Dr. Henry Liu](https://cee.engin.umich.edu/people/liu-henry/) in [Michigan Traffic Lab](https://traffic.engin.umich.edu/home).
+During my time at MTL, I worked on traffic data processing and traffic state prediction/estimation.
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine learning theory**: representation learning, causal inference, concept learning
+- **AI4Science**: molecule generation and optimization
+- **LLMs**: limitations of Transformer, in-context learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[June. 2024]** One paper accepted by ICML AI4Science Workshop!
+- **[Feb. 2024]** One paper accepted by Nature Communications!
+- **[Oct. 2021]** One paper accepted by Transportation Research Record!
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+[comment]: <> ({% include_relative _includes/services.md %})
