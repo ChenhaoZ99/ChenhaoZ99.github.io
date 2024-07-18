@@ -2,6 +2,7 @@ main:
 
   - title: Non-Differentiable Diffusion Guidance for Improved Molecular Geometry
     authors: (equal contribution) Yuchen Shen*, <strong>Chenhao Zhang*</strong>, Chenghui Zhou, Sijie Fu, Newell Washburn, Barnabas Poczos
+    conference: ICML AI4Science Workshop 2024
     pdf: https://openreview.net/pdf?id=1KgSm4R0NP
     image: ./assets/img/mol_optimization.png
 
