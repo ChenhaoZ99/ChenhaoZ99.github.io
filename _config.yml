@@ -1,5 +1,5 @@
 # Basic Information 
-title: Chenhao Zhang      张宸豪
+title: Chenhao Zhang
 position: Master in Machine Learning
 affiliation: Carnegie Mellon University
 email: chenhao4@andrew.cmu.edu
@@ -20,8 +20,8 @@ linkedin: https://www.linkedin.com/in/chenhao-z-03b6881b6/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/person_picture.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/icon.png
+favicon_dark: ./assets/img/icon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
