@@ -30,5 +30,4 @@ I’d love to engage in discussions and explore opportunities for collaboration.
 - **[Oct. 2021]** One paper accepted by Transportation Research Record!
 
 {% include_relative _includes/publications.md %}
-
-[comment]: <> ({% include_relative _includes/services.md %})
+{% include_relative _includes/misc.md %}
