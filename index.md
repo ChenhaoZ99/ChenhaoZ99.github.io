@@ -8,7 +8,7 @@ I'm a second year Master in Machine Learning (MSML) student at Carnegie Mellon U
 I'm fortunate to be advised by [Barnabás Póczos](https://www.cs.cmu.edu/~bapoczos/) and [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/).
 My research interests span theory and application sides of machine learning, including **representation learning theory** and **AI4Science**. 
 In representation learning theory, I'm interested in finding good features that are interpretable. 
-Currently, I'm working on limitations of LLMs and how meta learning can helps Transformer.
+Currently, I'm working on limitations of LLMs and how meta learning can help Transformer overcome systematic limitations.
 In AI4Science, I mainly work on AI for molecule generation and optimizations using generative models.
 
 I received my Bachelor's degree in computer science and mathematical science (double major) from the University of Michigan,
