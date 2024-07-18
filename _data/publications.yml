@@ -9,8 +9,8 @@ main:
   - title: Traffic light optimization with low penetration rate vehicle trajectory data
     authors: Xingmin Wang, Zachary Jerome, Zihao Wang, <strong>Chenhao Zhang</strong>, Shengyin Shen, Vivek Vijaya Kumar, Fan Bai, Paul Krajewski, Danielle Deneau, Ahmad Jawad, Rachel Jones, Gary Piotrowicz, Henry X Liu
     conference: Nature Communications, February 2024
-    Wall Street Juornal: https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252
-    Local News: https://www.clickondetroit.com/news/local/2024/02/23/cutting-edge-technology-slashes-wait-times-at-red-lights-in-oakland-county/
+    wsj: https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252
+    local: https://www.clickondetroit.com/news/local/2024/02/23/cutting-edge-technology-slashes-wait-times-at-red-lights-in-oakland-county/
     pdf: https://www.nature.com/articles/s41467-024-45427-4#citeas
     image: ./assets/img/nc_fig.png
 
