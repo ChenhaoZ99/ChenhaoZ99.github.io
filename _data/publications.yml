@@ -1,22 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Traffic light optimization with low penetration rate vehicle trajectory data
+    authors: (equal contribution) Yuchen Shen*, <strong>Chenhao Zhang*</strong>, Chenghui Zhou, Sijie Fu, Newell Washburn, Barnabas Poczos
+    pdf: https://openreview.net/pdf?id=1KgSm4R0NP
+    image: ./assets/img/mol_optimization.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Traffic light optimization with low penetration rate vehicle trajectory data
+    authors: Xingmin Wang, Zachary Jerome, Zihao Wang, <strong>Chenhao Zhang</strong>, Shengyin Shen, Vivek Vijaya Kumar, Fan Bai, Paul Krajewski, Danielle Deneau, Ahmad Jawad, Rachel Jones, Gary Piotrowicz, Henry X Liu
+    conference: Nature Communications, February 2024
+    Wall Street Juornal: https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252
+    Local News: https://www.clickondetroit.com/news/local/2024/02/23/cutting-edge-technology-slashes-wait-times-at-red-lights-in-oakland-county/
+    pdf: https://www.nature.com/articles/s41467-024-45427-4#citeas
+    image: ./assets/img/nature_communications_fig.png
+
+  - title: Trajectory Data Processing and Mobility Performance Evaluation for Urban Traffic Networks
+    authors: Xingmin Wang, Zachary Jerome, Chenhao Zhang, Shengyin Shen, Vivek Vijaya Kumar, Henry X Liu
+    conference: Transportation Research Record, March 2023
+    pdf: https://journals.sagepub.com/doi/10.1177/03611981221115088
+    image: ./assets/img/trr_fig.png
