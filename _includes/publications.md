@@ -33,6 +33,12 @@
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
+      {% if link.wsj %} 
+      <a href="{{ link.wsj }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Wall Street Journal</a>
+      {% endif %}
+      {% if link.local %} 
+      <a href="{{ link.local }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Local News</a>
+      {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
