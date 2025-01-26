@@ -25,6 +25,7 @@ I’d love to engage in discussions and explore opportunities for collaboration.
 
 ## News
 
+- **[Jan. 2025]** One paper accepted by ICLR!
 - **[June. 2024]** One paper accepted by ICML AI4Science Workshop!
 - **[Feb. 2024]** One paper accepted by Nature Communications!
 - **[Oct. 2021]** One paper accepted by Transportation Research Record!
