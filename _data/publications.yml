@@ -1,7 +1,7 @@
 main:
   - title: Chemistry-Inspired Diffusion With Non-Differentiable Guidance
     authors: (equal contribution) Yuchen Shen*, <strong>Chenhao Zhang*</strong>, Sijie Fu*, Chenghui Zhou, Newell Washburn, Barnabas Poczos
-    conference: preprint
+    conference: ICLR 2025
     pdf: https://arxiv.org/pdf/2410.06502
     image: ./assets/img/chem-informed.png
 
