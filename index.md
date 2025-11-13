@@ -15,7 +15,7 @@ I received my Bachelor's degree in computer science and mathematical science (do
 where I was advised by [Dr. Henry Liu](https://cee.engin.umich.edu/people/liu-henry/) in [Michigan Traffic Lab](https://traffic.engin.umich.edu/home).
 During my time at MTL, I worked on traffic data processing and traffic state prediction/estimation.
 
-Should you share similar interests or consider potential collaboration, please feel free to reach out to me at chenhao4@andrew.cmu.edu or zhangch9012@gmail.com. 
+Should you share similar interests or consider potential collaboration, please feel free to reach out to me at zhangch9012@gmail.com. 
 I’d love to engage in discussions and explore opportunities for collaboration.
 
 ## Research Interests
